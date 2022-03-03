@@ -1,4 +1,6 @@
-# React Shop Website
+# React Store Website
+ 
+In this project, I tried to make a small online store using api.
 
 ## API's
 
@@ -10,5 +12,5 @@ axios, react router v6, react icons, styled components, swiper
 
 ## Live Demo 
 
-[Demo Website](https://fakestoreapi.com/)
+[Demo Website](https://react-store-api-app.netlify.app/)
 
